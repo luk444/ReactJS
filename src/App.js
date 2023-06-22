@@ -160,7 +160,7 @@ function App() {
                   <button className="marginbtn btn btn-success" onClick={() => handleColorSelect('green')}>
                     Verde
                   </button>
-                  {/* Agrega más botones para seleccionar colores adicionales */}
+                  {/* Agregar mas botones para seleccionar colores adicionales */}
                 </div>
                 <div className="container">{renderSquares()}</div>
                 <div className="score">
