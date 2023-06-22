@@ -1,0 +1,34 @@
+.left-arrow {
+    position: absolute;
+    left: 0;
+    top: 0;
+    /* transform: translateY(-50%); */
+    color: white;
+    margin: 5px;
+  }
+  
+  .right-arrow {
+    position: absolute;
+    right: 0;
+    top: 0;
+    /* transform: translateY(-50%); */
+    color: white;
+    margin: 5px;
+    
+  }
+  
+  .card-header{
+    color: white;
+  }
+
+  .Titul{
+    margin: 20px;
+  }
+
+  .calendar-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh; /* Ajusta la altura según sea necesario */
+  }
+  
